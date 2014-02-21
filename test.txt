@@ -1,3 +1,5 @@
 Sample text file
 
 #Adding new line after first commit: Modification
+
+#Adding new line in test_branch2
